@@ -1,0 +1,10 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.BurcunNeDiyor" parent="Theme.MaterialComponents.DayNight.DarkActionBar.Bridge">
+        <item name="colorPrimary">#8e44ad</item>
+        <item name="colorPrimaryVariant">#8e44ad</item>
+        <item name="colorSecondary">#8e44ad</item>
+    </style>
+
+    <style name="Theme.BurcunNeDiyor" parent="Base.Theme.BurcunNeDiyor" />
+</resources>
